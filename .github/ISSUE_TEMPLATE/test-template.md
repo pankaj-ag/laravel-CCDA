@@ -7,8 +7,13 @@ assignees: ''
 
 ---
 
-Issue description -  Please add issue description here. 
+Description:  Please describe your issue here. 
 
+
+
+----------------------------------------------------------------------------------------------
 Estimates:
+
+----------------------------------------------------------------------------------------------
 
 Effort:
